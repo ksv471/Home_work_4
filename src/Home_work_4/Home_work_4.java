@@ -3,7 +3,7 @@ package Home_work_4;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Home_work_4 {
+public class Home_works_4 {
 
     public static final int SIZE = 5;
     public static final int DOT_WIN = 4;
